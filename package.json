@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.overwatchgooglelink",                              
+  "displayName": "Overwatch Google Link",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Observe google doc and google sheet for change and apply action based on the file modification.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2022_04_02_MOMI_OverwatchGoogleLink.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
